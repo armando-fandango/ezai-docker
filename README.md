@@ -1,3 +1,5 @@
+# [Deprecated] - moved to https://github.com/armando-fandango/ezai_env
+# this version is not being maintained anymore
 # ezai-docker
 ## Description
 Docker container and conda python virtual environment creation for doing AI
